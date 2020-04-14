@@ -3,11 +3,9 @@ banner:
   title: Health Care <br> at the time of <br>lockdown.
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: We are a team of healthcare and Tech professionals passionately working
+    towards improving access to healthcare & bring convenience to people in a cost-effective
+    manner. We want to change the way healthcare is delivered today.
   button:
     enable: true
     label: know more
