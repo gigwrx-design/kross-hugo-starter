@@ -17,14 +17,14 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "Qurabl Admin"
 copyright = "Copyrighht &copy; 2020 Qurabl"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = "Qurabl helps you to video consult with the best doctors from top hospitals at the convenience of your home and office. Beat the traffic, Save time."
+email = "support@qurabl.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/QLogo.png"
-phone = "+880 2544 658 256"
+phone = "+91 8072 894 796"
 theme_color = "#41228e"
 [params.contact]
 enable = true
