@@ -45,7 +45,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = "loader_cms.gif"
+preloader = "/images/loader_cms.gif"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
