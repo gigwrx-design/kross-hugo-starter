@@ -12,10 +12,6 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 5
@@ -49,7 +45,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = "Loading"
+preloader = ""
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
