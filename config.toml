@@ -18,7 +18,7 @@ weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyrighht &copy; 2020 Qurabl"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
@@ -45,7 +45,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "loader_cms.gif"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
