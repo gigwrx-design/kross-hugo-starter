@@ -1,7 +1,7 @@
 ---
 title: Informed Consent to avail Telemedicine Consultation
 date: 2020-04-01T11:44:34+05:30
-image: images/blog/post-3.jpg
+image: ''
 description: This is meta description.
 
 ---
