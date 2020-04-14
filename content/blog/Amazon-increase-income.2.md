@@ -1,5 +1,5 @@
 ---
-title: Amazon increase income 1.5 Million - 1
+title: Informed Consent to avail Telemedicine Consultation
 date: 2019-05-12T06:14:34.000+00:00
 image: images/blog/post-3.jpg
 description: This is meta description.
