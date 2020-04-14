@@ -61,7 +61,7 @@ Unfortunately, no method of transmitting or storing data can be guaranteed to be
 
 ### Communications
 
-You consent to receive/ communicate data, information, updates from Qurabl regarding the Services, through valid modes of communication which include but not limited to emails, messages etc. We provide you with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of the Empanelled Associate, and from us in general, after setting up an account. If you wish to remove your contact information from all Qurabl lists and newsletters, please write to response@Qurabl.com
+You consent to receive/ communicate data, information, updates from Qurabl regarding the Services, through valid modes of communication which include but not limited to emails, messages etc. We provide you with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of the Empanelled Associate, and from us in general, after setting up an account. If you wish to remove your contact information from all Qurabl lists and newsletters, please write to response@qurabl.com
 
 ### Advertisements on Website
 
