@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Qurabl"
+title = "Online Doctor Consultation, Video Call with Doctors Instantly - Qurabl"
 [[menu.main]]
 URL = "about"
 name = "About"
