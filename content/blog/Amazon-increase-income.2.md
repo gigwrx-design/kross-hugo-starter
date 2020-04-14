@@ -24,4 +24,4 @@ I have chosen to consult with the healthcare provider of my choice through telec
 
     I am willing to pay the consultation fees and any platform fees and financial charges mentioned if any for the teleconsultation.
 
-**I certify that I have read the above and I understand and agree to its contents and hereby give my informed consent to avail medical consultation via telemedicine.**
+**_I certify that I have read the above and I understand and agree to its contents and hereby give my informed consent to avail medical consultation via telemedicine._**
